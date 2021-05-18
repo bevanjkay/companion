@@ -3,8 +3,8 @@ lib/module/*
 lib/font.js
 lib/satellite_protocol.js
 electron-output/
-public/
 webui/package.json
 webui/build/
+webui/public/legacy
 /LICENSE.md
-module-local-dev
+docs/*
