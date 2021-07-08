@@ -1689,9 +1689,9 @@ commist@^1.0.0:
     p-queue "^6.6.2"
     type-fest "^1.1.3"
 
-"companion-module-behringer-xair@github:bitfocus/companion-module-behringer-xair#v1.6.5":
-  version "1.6.5"
-  resolved "https://codeload.github.com/bitfocus/companion-module-behringer-xair/tar.gz/bddc80b54ad20f602f73f440aa96fdda899e9e28"
+"companion-module-behringer-xair@github:bitfocus/companion-module-behringer-xair#v1.6.6":
+  version "1.6.6"
+  resolved "https://codeload.github.com/bitfocus/companion-module-behringer-xair/tar.gz/f89438125f34c6c9c22f9f1d9309bddae73f7248"
 
 "companion-module-biamp-audia@github:bitfocus/companion-module-biamp-audia#v1.0.1":
   version "1.0.1"
@@ -2070,9 +2070,9 @@ commist@^1.0.0:
   version "1.0.0"
   resolved "https://codeload.github.com/bitfocus/companion-module-generic-sacn/tar.gz/fec30a4264909ea903b7bbc6472a0df917a57a2d"
 
-"companion-module-generic-swp08@github:bitfocus/companion-module-generic-swp08#v1.0.0":
-  version "1.0.0"
-  resolved "https://codeload.github.com/bitfocus/companion-module-generic-swp08/tar.gz/249f1331b23cb74f85ea009f1242e10a50f42209"
+"companion-module-generic-swp08@github:bitfocus/companion-module-generic-swp08#v1.0.1":
+  version "1.0.1"
+  resolved "https://codeload.github.com/bitfocus/companion-module-generic-swp08/tar.gz/a77d1490509ae67c96c49187b0df8f1b5be8f4d9"
 
 "companion-module-generic-tcp-serial@github:bitfocus/companion-module-generic-tcp-serial#v1.0.2":
   version "1.0.2"
@@ -2410,9 +2410,9 @@ commist@^1.0.0:
   version "1.0.0"
   resolved "https://codeload.github.com/bitfocus/companion-module-orfast-ndi/tar.gz/32c28f886b07a7da3aed8a38c6a3a71881c8543e"
 
-"companion-module-panasonic-avhs@github:bitfocus/companion-module-panasonic-avhs#v1.0.3":
-  version "1.0.3"
-  resolved "https://codeload.github.com/bitfocus/companion-module-panasonic-avhs/tar.gz/51752e23969dceb25e24bc40db4e94bcca0e153f"
+"companion-module-panasonic-avhs@github:bitfocus/companion-module-panasonic-avhs#v1.0.4":
+  version "1.0.4"
+  resolved "https://codeload.github.com/bitfocus/companion-module-panasonic-avhs/tar.gz/ef0d20caf0cce1ed11236b5e1c9cbd9894ff8c5a"
 
 "companion-module-panasonic-camera-controller@github:bitfocus/companion-module-panasonic-camera-controller#v1.0.6":
   version "1.0.6"
@@ -2652,9 +2652,9 @@ commist@^1.0.0:
   version "1.0.0"
   resolved "https://codeload.github.com/bitfocus/companion-module-sounddevices-pixnet/tar.gz/ded91efc401513f33b2bb8a42ccd11cb3b73e419"
 
-"companion-module-spotify-remote@github:bitfocus/companion-module-spotify-remote#v1.0.3":
-  version "1.0.3"
-  resolved "https://codeload.github.com/bitfocus/companion-module-spotify-remote/tar.gz/ee7bdd85192a855f81d957ef4f84e02ab71dd084"
+"companion-module-spotify-remote@github:bitfocus/companion-module-spotify-remote#v1.0.4":
+  version "1.0.4"
+  resolved "https://codeload.github.com/bitfocus/companion-module-spotify-remote/tar.gz/c2e1d2e0ce84658143d2043d11fb68e493242478"
   dependencies:
     spotify-web-api-node "^5.0.1"
 
